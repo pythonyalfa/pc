@@ -1,0 +1,9 @@
+img {
+    border: 2px dotted;
+    display: inline;
+
+}
+
+blockquote {
+    display: list-item;
+}
